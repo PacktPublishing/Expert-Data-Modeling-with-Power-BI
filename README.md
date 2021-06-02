@@ -7,7 +7,7 @@ This is the code repository for [Expert Data Modeling with Power BI](https://www
 **Get the best out of Power BI by building optimized data models for reporting and business needs**
 
 ## What is this book about?
-This MS Power BI book is for BI users, data analysts, and analysis developers who want to become well-versed with data modeling techniques to make the most of Power BI. Basic knowledge of Power BI and Star Schema will help you to understand the concepts covered in this book.
+Microsoft Power BI is one of the most popular business intelligence tools available on the market for desktop and the cloud. This book will be your guide to understanding the ins and outs of data modeling and how to create data models using Power BI confidently. You'll learn how to connect data from multiple sources, understand data, define and manage relationships between data, and shape data models.
 
 This book covers the following exciting features: 
 * Implement virtual tables and time intelligence functionalities in DAX to build a powerful model
