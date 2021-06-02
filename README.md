@@ -4,7 +4,7 @@
 
 This is the code repository for [Expert Data Modeling with Power BI](https://www.packtpub.com/product/expert-data-modeling-with-power-bi/9781800205697?utm_source=github&utm_medium=repository&utm_campaign=9781800205697), published by Packt.
 
-**Get the best out of Power BI by building optimized data models for reporting and business needs	**
+**Get the best out of Power BI by building optimized data models for reporting and business needs**
 
 ## What is this book about?
 This MS Power BI book is for BI users, data analysts, and analysis developers who want to become well-versed with data modeling techniques to make the most of Power BI. Basic knowledge of Power BI and Star Schema will help you to understand the concepts covered in this book.
@@ -40,7 +40,7 @@ expressions have been tested in the March release of Power BI Desktop and will w
 the later versions released on later dates. In addition to Power BI Desktop, you will need
 to install and use DAX Studio and Tabular Editor.	
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-15).
+With the following software and hardware list you can run all code files present in the book (Chapter 1-12).
 
 ### Software and Hardware List
 
