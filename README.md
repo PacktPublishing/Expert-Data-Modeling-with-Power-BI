@@ -71,5 +71,3 @@ He has a passion for sharing knowledge via his website and speaking at conferenc
 In following his desire for simplicity and efficiency, he is behind Power BI community tools and commercial products such as Power BI Exporter and Power BI Documenter.	
 
 
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
