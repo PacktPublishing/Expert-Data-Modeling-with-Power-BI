@@ -48,9 +48,9 @@ With the following software and hardware list you can run all code files present
 
 | Chapter  | Software required                   | OS required                        |
 | -------- | ------------------------------------| -----------------------------------|
-| 1-12	   | Power BI Desktop                    | Windows, Mac OS X, and Linux (Any) |
-| 1-12     | DAX Studio                          | Windows, Mac OS X, and Linux (Any  |
-| 1-12     | Tabular Editor                      | Windows, Mac OS X, and Linux (Any  |
+| 1-12	   | Power BI Desktop                    | Windows 8.1 / Windows Server 2012 R2, or later |
+| 1-12     | DAX Studio                          | Windows 8.1 / Windows Server 2012 R2, or later |
+| 1-12     | Tabular Editor                      | Windows 8.1 / Windows Server 2012 R2, or later |
 
 
 
