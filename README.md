@@ -34,6 +34,10 @@ GENERATESERIES(1, 20, 1)
 )
 ```
 
+**Errata**
+* In Chapter 1, page 26, the image should be ![image](https://user-images.githubusercontent.com/18325091/133447976-07db3cd0-ee6f-469f-9e18-24c5746ff9b5.png)
+
+
 **Following is what you need for this book:**
 You will need to download and install the latest version of Power BI Desktop. All
 expressions have been tested in the March release of Power BI Desktop and will work in
