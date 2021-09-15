@@ -35,7 +35,8 @@ GENERATESERIES(1, 20, 1)
 ```
 
 **Errata**
-* In Chapter 1, page 26, the image should be ![image](https://user-images.githubusercontent.com/18325091/133447976-07db3cd0-ee6f-469f-9e18-24c5746ff9b5.png)
+* In Chapter 1, page 26, the image should be ![Pg26](https://user-images.githubusercontent.com/18325091/133448100-8da83dee-3da6-4acd-a45a-c58000919273.png)
+
 
 
 **Following is what you need for this book:**
