@@ -76,3 +76,7 @@ Data Warehousing, and Power BI platform. He possesses MSCE, MCSA certifications 
 He has a passion for sharing knowledge via his website and speaking at conferences and Power BI community events locally and globally. 
 In following his desire for simplicity and efficiency, he is behind Power BI community tools and commercial products such as Power BI Exporter and Power BI Documenter.	
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781800205697">https://packt.link/free-ebook/9781800205697 </a> </p>
