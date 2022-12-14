@@ -1,3 +1,15 @@
+
+### Get this product for $5
+
+<i>Packt is having its biggest sale of the year. Get this eBook or any other book, video, or course that you like just for $5 each</i>
+
+
+<b><p align='center'>[Buy now](https://packt.link/9781800205697)</p></b>
+
+
+<b><p align='center'>[Buy similar titles for just $5](https://subscription.packtpub.com/search)</p></b>
+
+
 # Expert Data Modeling with Power BI
 
 <a href="https://www.packtpub.com/product/expert-data-modeling-with-power-bi/9781800205697?utm_source=github&utm_medium=repository&utm_campaign=9781800205697"><img src="https://static.packt-cdn.com/products/9781800205697/cover/smaller" alt="Expert Data Modeling with Power BI" height="256px" align="right"></a>
